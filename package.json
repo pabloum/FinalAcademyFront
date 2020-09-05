@@ -31,7 +31,7 @@
     "eslint": "^5.16.0",
     "font-awesome": "4.7.0",
     "ng2-charts": "2.3.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "rxjs": "6.5.3",
     "tslib": "^1.10.0",
     "yarn": "1.21.0",
